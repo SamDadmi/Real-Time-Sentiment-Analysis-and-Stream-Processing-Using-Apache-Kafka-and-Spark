@@ -1,3 +1,4 @@
+[DBT_VJ_02.pdf](https://github.com/user-attachments/files/19822309/DBT_VJ_02.pdf)
 # Real-Time Sentiment Analysis and Stream Processing Using Apache Kafka and Spark
 
 This project implements a real-time sentiment analysis pipeline that leverages **Apache Kafka**, **Apache Spark Streaming**, and **PostgreSQL** to classify and process tweet sentiments (positive, neutral, or negative) efficiently and at scale.
@@ -26,7 +27,5 @@ The system follows an end-to-end data pipeline architecture:
 - **Apache Kafka** – Real-time data ingestion and message brokering.
 - **Apache Spark Streaming** – Real-time stream processing and transformations.
 - **PostgreSQL** – Persistent storage for historical data analysis.
-- **Python** – For producing, consuming, and processing tweets.
-
-
+- **Python** – For producing, consuming, and processing tweets.![Real-Time Twitter Sentiment Analysis using Apache Kafka, Spark Streaming, and PostgreSQL](https://github.com/user-attachments/assets/6d353f3d-78a7-41ba-b61a-2290cd5d859a)
 
