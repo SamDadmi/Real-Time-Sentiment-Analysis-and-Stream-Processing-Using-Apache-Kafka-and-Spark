@@ -28,8 +28,5 @@ The system follows an end-to-end data pipeline architecture:
 - **PostgreSQL** – Persistent storage for historical data analysis.
 - **Python** – For producing, consuming, and processing tweets.
 
-## 🛠️ Installation and Setup
 
-1. **Install Dependencies:**
-   ```bash
-   pip install kafka-python pyspark psycopg2 pandas
+
